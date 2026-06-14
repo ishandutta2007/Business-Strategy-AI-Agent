@@ -42,45 +42,47 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-### Dedicated Strategy Automation & Agent Frameworks
-
-- **[n8n](https://github.com/n8n-io/n8n)**  
+- **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&label=Stars&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Leading open-source workflow automation tool with excellent LLM integration. Perfect for building custom AI strategy automation pipelines, reporting, and decision workflows.
 
-- **[LangGraph](https://github.com/langchain-ai/langgraph)**  
-  Stateful multi-agent framework for building reliable, controllable strategy agents and adaptive planning systems.
-
-- **[CrewAI](https://github.com/crewAIInc/crewAI)**  
-  Popular role-based multi-agent orchestration framework. Widely used to create strategy execution teams (planner, analyst, executor, reviewer agents).
-
-- **[Dify](https://github.com/langgenius/dify)**  
-  Open-source AI application and workflow platform with visual builder, ideal for strategy automation and knowledge-driven decision agents.
-
-- **[Langflow](https://github.com/langflow-ai/langflow)**  
+- **[Langflow](https://github.com/langflow-ai/langflow)** [![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&label=Stars&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
   Visual development environment for creating complex strategy automation flows on top of LangChain.
 
-- **[Phidata](https://github.com/phidatahq/phidata)**  
-  Framework for building production AI agents with memory, knowledge bases, and tools tailored for business strategy and operations.
+- **[OpenWebUI](https://github.com/open-webui/open-webui)** [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&label=Stars&color=white)](https://github.com/open-webui/open-webui/stargazers)  
+  Local LLM interface for building strategy assistants.
 
-- **[AutoGen](https://github.com/microsoft/autogen)**  
+- **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&label=Stars&color=white)](https://github.com/langgenius/dify/stargazers)  
+  Open-source AI application and workflow platform with visual builder, ideal for strategy automation and knowledge-driven decision agents.
+
+- **[AutoGen](https://github.com/microsoft/autogen)** [![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&label=Stars&color=white)](https://github.com/microsoft/autogen/stargazers)  
   Microsoft’s multi-agent conversation framework for sophisticated strategy planning and execution scenarios.
 
-- **[Huginn](https://github.com/huginn/huginn)**  
-  Open-source personal automation agent that can monitor business signals and trigger strategy-related actions.
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&label=Stars&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+  Popular role-based multi-agent orchestration framework. Widely used to create strategy execution teams (planner, analyst, executor, reviewer agents).
 
-- **[Twenty](https://github.com/twentyhq/twenty)**  
+- **[Plane](https://github.com/makeplane/plane)** [![Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&label=Stars&color=white)](https://github.com/makeplane/plane/stargazers)  
+  Open-source project management with potential for strategy execution.
+
+- **[Twenty](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&label=Stars&color=white)](https://github.com/twentyhq/twenty/stargazers)  
   Modern open-source CRM that serves as a strong foundation for strategy execution and team alignment tools.
 
-- **[Budibase](https://github.com/Budibase/budibase)**  
+- **[Huginn](https://github.com/huginn/huginn)** [![Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&label=Stars&color=white)](https://github.com/huginn/huginn/stargazers)  
+  Open-source personal automation agent that can monitor business signals and trigger strategy-related actions.
+
+- **[PostHog](https://github.com/posthog/posthog)** [![Stars](https://img.shields.io/github/stars/posthog/posthog?style=social&label=Stars&color=white)](https://github.com/posthog/posthog/stargazers)  
+  Open-source analytics with strong strategy experimentation features.
+
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&label=Stars&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+  Stateful multi-agent framework for building reliable, controllable strategy agents and adaptive planning systems.
+
+- **[Budibase](https://github.com/Budibase/budibase)** [![Stars](https://img.shields.io/github/stars/budibase/budibase?style=social&label=Stars&color=white)](https://github.com/budibase/budibase/stargazers)  
   Open-source low-code platform for building internal strategy dashboards, planning tools, and automation interfaces.
 
-### Additional Strong Open-Source Options
+- **[Phidata](https://github.com/phidatahq/phidata)** [![Stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social&label=Stars&color=white)](https://github.com/phidatahq/phidata/stargazers)  
+  Framework for building production AI agents with memory, knowledge bases, and tools tailored for business strategy and operations.
 
-- **[OpenWebUI](https://github.com/open-webui/open-webui)** — Local LLM interface for building strategy assistants.
-- **[MetricFlow + dbt](https://github.com/transform/metricflow)** — Semantic layer for consistent strategy metrics.
-- **[PostHog](https://github.com/PostHog/posthog)** — Open-source analytics with strong strategy experimentation features.
-- **[Plane](https://github.com/makeplane/plane)** — Open-source project management with potential for strategy execution.
-- **[LangGraph + CrewAI Strategy Templates** — Numerous community repositories for autonomous business strategy agents.
+- **[MetricFlow](https://github.com/transform/metricflow)** [![Stars](https://img.shields.io/github/stars/transform/metricflow?style=social&label=Stars&color=white)](https://github.com/transform/metricflow/stargazers)  
+  Semantic layer for consistent strategy metrics.
 
 **Frameworks for building custom agents**: Combine **n8n**, **LangGraph**, **CrewAI**, and **Dify** with **Ollama** to create fully private, sovereign AI strategy automation systems.
 
