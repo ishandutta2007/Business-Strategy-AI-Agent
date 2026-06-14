@@ -23,32 +23,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Business Strategy Automation)
 
-- **[Foray AI](https://foray.ai/)**  
-  AI strategy copilot that automates planning, execution tracking, and adaptive decision-making.
-
-- **[CoachOS](https://coachos.ai/)**  
-  Operating system for business strategy with AI agents for goal setting and performance orchestration.
-
-- **[WorkBoardAI](https://workboard.com/)**  
-  Enterprise strategy execution platform with strong AI capabilities for OKRs and alignment.
-
-- **[OnePlan](https://oneplan.ai/)**  
-  Intelligent strategy and portfolio management platform with AI-driven insights and automation.
-
-- **[Cascade Strategy](https://cascadestrategy.com/)**  
-  Modern strategy execution platform with AI features for planning and progress tracking.
-
-- **[Precision.co](https://precision.co/)**  
-  AI-powered business strategy and decision intelligence tool.
-
-- **[ThoughtSpot](https://thoughtspot.com/)**  
-  AI-driven analytics and strategy platform with natural language search and automation.
-
-- **[Gumloop](https://gumloop.com/)**  
-  No-code AI automation platform for building custom strategy workflows and agents.
-
-- **[Lindy](https://www.lindy.ai/)**  
-  Autonomous AI assistant platform with strong strategy and operations automation features.
+| Product | Description | Starting Price | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Foray AI](https://foray.ai/)** | AI strategy copilot that automates planning, execution tracking, and adaptive decision-making. | Pay-as-you-go | Limited free credits |
+| **[CoachOS](https://coachos.ai/)** | Operating system for business strategy with AI agents for goal setting and performance orchestration. | £59/mo | 14-day free trial |
+| **[WorkBoardAI](https://workboard.com/)** | Enterprise strategy execution platform with strong AI capabilities for OKRs and alignment. | ~$20/user/mo (Est.) | 14-day free trial |
+| **[OnePlan](https://oneplan.ai/)** | Intelligent strategy and portfolio management platform with AI-driven insights and automation. | $35/mo | Free plan (1 event, 50 objects) |
+| **[Cascade Strategy](https://cascadestrategy.com/)** | Modern strategy execution platform with AI features for planning and progress tracking. | $59/mo | Free plan (up to 4 users) |
+| **[Precision.co](https://precision.co/)** | AI-powered business strategy and decision intelligence tool. | $99/mo | 5-day free trial |
+| **[ThoughtSpot](https://thoughtspot.com/)** | AI-driven analytics and strategy platform with natural language search and automation. | $25/user/mo | 1-year free Developer edition |
+| **[Gumloop](https://gumloop.com/)** | No-code AI automation platform for building custom strategy workflows and agents. | $37/mo | Free plan (2,000 credits/mo) |
+| **[Lindy](https://www.lindy.ai/)** | Autonomous AI assistant platform with strong strategy and operations automation features. | $19.99/mo | Free plan (400 credits/mo) |
 
 ### Advanced & Specialized Platforms
 
