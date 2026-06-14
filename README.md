@@ -11,6 +11,8 @@
   [![Last Updated](https://img.shields.io/badge/Updated-June%202026-blue.svg)](#)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Business-Strategy-AI-Agent/contributing)
   [![GitHub Stars](https://img.shields.io/github/stars/Business-Strategy-AI-Agent/Business-Strategy-AI-Agent?style=social)](https://github.com/Business-Strategy-AI-Agent/Business-Strategy-AI-Agent/stargazers)
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+
 </div>
 
 ---
