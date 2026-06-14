@@ -34,10 +34,11 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[ThoughtSpot](https://thoughtspot.com/)** | AI-driven analytics and strategy platform with natural language search and automation. | $25/user/mo | 1-year free Developer edition |
 | **[Gumloop](https://gumloop.com/)** | No-code AI automation platform for building custom strategy workflows and agents. | $37/mo | Free plan (2,000 credits/mo) |
 | **[Lindy](https://www.lindy.ai/)** | Autonomous AI assistant platform with strong strategy and operations automation features. | $19.99/mo | Free plan (400 credits/mo) |
+| **[Google NotebookLM](https://notebooklm.google.com/)** | AI research and synthesis tool for strategy analysis and knowledge management. | $0 (Standard) | Free plan (100 notebooks, 50 sources/ea) |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: Google NotebookLM for strategy synthesis, and various AI-powered OKR and planning tools.
+**Other notable mentions**: Various AI-powered OKR and planning tools focused on specific industries or smaller team scales.
 
 ## Open-Source GitHub Projects
 
